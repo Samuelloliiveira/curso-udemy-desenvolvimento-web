@@ -15,3 +15,6 @@ console.log(soma(2,3));
 //Retorno implícito - Retorna sem usar a palavra return
 const subtracao = (a,b) => a - b;
 console.log(subtracao(5,5));
+
+const imprimir2 = a => console.log(a); //Ainda menor
+imprimir2('Legal!!!')
