@@ -5,4 +5,5 @@
 
 - JSON(JavaScript Object Notation) não é a mesma coisa que Objeto. JSON é um formato textual, e objeto é uma coleção de chave e valor.
 
+- Função sem nome são chamadas de função anônima.
 */
